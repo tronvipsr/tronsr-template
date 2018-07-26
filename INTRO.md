@@ -1,1 +1,1 @@
-A short introduction about your team
+TronVIP is made of crypto-enthusiasts who see Tron as the next wave of crypto-currency. We are a small team of technology experts based in the Midwest region of the US. Between us, we have 20+ years of professional experience in network engineering, sofware development, server management, and SaaS architecure design and deployment. We've built datacenters, the software that runs datacenters, and services that get served by those datacenters.
