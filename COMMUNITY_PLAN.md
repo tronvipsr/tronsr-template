@@ -1,1 +1,3 @@
-Describe the plan to support the community
+Our plan is simple - We will only pay out to the first 125,000,000 votes each cycle.  Our reward system is geared to Tron holders that are looking for a modest return on investment.  We can not control how many votes we receive, we can control who gets the rewards.  We think this will benefit the tron community as a whole by encouraging people to vote for others, once our 125MM votes are acheived.  We have given ourselves a 25MM buffer, so that as votes change - we shouldn't fall below the 100MM line.
+
+Our plan is evolving.  Our team is new.  We will be updating our site soon with more details.
